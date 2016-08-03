@@ -5,6 +5,9 @@ body, h1, h2, h3, p, a {
   color: white;
   font-family: monospace;
 }
+h2{
+  background-color: gray;
+}
 
 .wrapper {
   width: 90%;
@@ -16,6 +19,9 @@ body, h1, h2, h3, p, a {
   width: 50%;
   margin: 20px 0;
   padding: 10px 0;
+}
+.sidebar{
+  background-color: gray;
 }
 
 .list {
